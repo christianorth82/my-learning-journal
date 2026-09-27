@@ -1,0 +1,2 @@
+# Stand des Journals
+Tag 1 ist dokumentiert (Branch, Self-PR, Merge). Die Einträge für Tag 2 bis 7 fehlen: Wegen meines Hauptberufs, anderer Verpflichtungen und des Zeitaufwands für die Weiterbildung selbst bin ich seit Wochen nicht zum Bauen gekommen, also gab es auch nichts, worüber ich ein Journal hätte führen können. Den Git-Workflow (Branch → PR → Review → Merge) habe ich an Tag 1 einmal vollständig durchlaufen.
